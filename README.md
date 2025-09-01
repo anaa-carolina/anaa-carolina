@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, eu sou a Ana Carolina 👋
 
-<!--
-**anaa-carolina/anaa-carolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento de Software e Multiplataforma**, apaixonada por tecnologia e aprendizado contínuo.  
 
-Here are some ideas to get you started:
+## 💻 Tecnologias e Ferramentas
+- **Front-end:** HTML5, CSS, React  
+- **Mobile:** React Native  
+- **Back-end:** Python, Node.js
+- **Banco de Dados:** MySQL, SQLite, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Atualmente estou
+- Aprimorando minhas habilidades em desenvolvimento web e mobile  
+- Criando projetos práticos para colocar em prática o que aprendo  
+
+## 📫 Contato
+Você pode entrar em contato comigo via anaalmeida.contat00@gmail.com
+
+---
+
+*"Se você pode sonhar, você pode fazer"*
